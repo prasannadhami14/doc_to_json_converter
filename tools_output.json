@@ -2,10 +2,10 @@
     {
         "Tool Name": "ChatGPT",
         "Website Link": "https://chat.openai.com",
-        "Logo": "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742714648350chatgpt%20logo.png?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
+        "Logo": "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742714648350_chatgpt%20logo.png?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
         "Screenshots": [
-            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742714789073chatgpt3.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
-            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742714720800chatgpt2.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
+            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742714720800_chatgpt2.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
+            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742714789073_chatgpt3.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
             "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742714691494_chatgpt1.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2"
         ],
         "Short Description": " An AI-powered chatbot capable of performing a variety of tasks such as answering questions, writing content, and assisting with problem-solving.",
@@ -22,24 +22,28 @@
         "Meta Title": " ChatGPT - AI Chatbot by OpenAI for Content Creation & Coding",
         "Meta Description": " Explore ChatGPT, OpenAI's powerful AI chatbot for instant content creation, coding help, and customer support.",
         "Category": [
+            "AI",
             "Chatbot",
-            "Content Creation",
-            "AI"
+            "Content Creation"
         ],
         "Product Type": " Freemium",
         "Tags": [
-            "Chatbot",
+            "Natural Language Processing",
+            "Writing Assistant",
             "Content Creation",
             "AI",
-            "Writing Assistant",
-            "Natural Language Processing"
+            "Chatbot"
         ]
     },
     {
         "Tool Name": "Deep Dream Generator",
         "Website Link": "https://deepdreamgenerator.com/",
-        "Logo": "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742635613213dreamdeepLogo.png?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
-        "Screenshots": [],
+        "Logo": "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742635613213_dreamdeepLogo.png?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
+        "Screenshots": [
+            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742635672832_deepdream3.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
+            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742635715861_deepdream2.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
+            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742635759385_deepdream1.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2"
+        ],
         "Short Description": " It is a powerful AI tool that transforms your photos into dream-like, surreal artworks using deep learning algorithms or Deep Dream Generator's AI-driven image processing technology.",
         "Full Description": {
             "Introduction": "Profound Dream Generator is a valuable cutting-edge AI device. That device permits clients to change straightforward pictures into uncommon, dream-inspired craftsmanship by leveraging profound neural systems. This stage distinguishes and opens up designs inside pictures, coming about in captivating and otherworldly visuals.",
@@ -51,25 +55,29 @@
             "Conclusion": "Deep Dream Generator stands as a confirmation to the conceivable outcomes that emerge when fake insights converge with creative inventiveness. It offers clients an opportunity to dig into a world of surrealism, changing conventional pictures into mesmerizing craftsmanships that challenge recognitions and rouse imagination."
         },
         "Slug": " deep-dream-generator",
-        "Meta Title": " Profound Dream Generator: Change Photographs into Strange AI Art Meta Portrayal: Find Profound Dream Generator, an AI-powered apparatus that changes your photographs into dreamlike, dream-like works of art. Investigate its highlights, utilize cases, and connect a dynamic community of AI artists.",
-        "Meta Description": "",
+        "Meta Title": " Profound Dream Generator: Change Photographs into Strange AI Art",
+        "Meta Description": " Find Profound Dream Generator, an AI-powered apparatus that changes your photographs into dreamlike, dream-like works of art. Investigate its highlights, utilize cases, and connect a dynamic community of AI artists.",
         "Category": [
             "AI Picture Era Tool"
         ],
         "Product Type": "AI Tool",
         "Tags": [
-            "Profound Learning",
-            "Neural Systems",
-            "AI Craftsmanship",
             "Picture Handling",
-            "Inventive Devices"
+            "Profound Learning",
+            "Inventive Devices",
+            "AI Craftsmanship",
+            "Neural Systems"
         ]
     },
     {
         "Tool Name": "DALL·E 2",
         "Website Link": "https://openai.com/dall-e-2",
-        "Logo": "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742637067621dalleLogo.jpeg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
-        "Screenshots": [],
+        "Logo": "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742637067621_dalleLogo.jpeg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
+        "Screenshots": [
+            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742637013718_dalle2.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
+            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742637042469_dalle3.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
+            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742636935511_dalle1.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2"
+        ],
         "Short Description": " DALL·E 2 is an AI framework by OpenAI that makes reasonable pictures and craftsmanship from characteristic dialect descriptions.",
         "Full Description": {
             "Introduction": "DALL·E 2 is a state-of-the-art AI show created by OpenAI, planned to create pictures from literary portrayals. Leveraging profound learning procedures, it translates characteristic dialect inputs to deliver comparing visual representations. This advancement grows the conceivable outcomes of AI in inventive and viable applications.",
@@ -81,8 +89,8 @@
             "Conclusion": "DALL·E 2 embodies the combination of counterfeit insights and imagination, empowering clients to change literary portrayals into distinctive pictures. Its applications span different businesses, advertising imaginative arrangements for visual substance creation."
         },
         "Slug": " Dall-e-2",
-        "Meta Title": " DALL·E 2 by OpenAI: AI-Powered Picture Era from Text Meta Portrayal: Find DALL·E 2, OpenAI's progressed AI framework that makes practical pictures and craftsmanship from characteristic dialect depictions. Investigate its highlights and applications.",
-        "Meta Description": "",
+        "Meta Title": " DALL·E 2 by OpenAI: AI-Powered Picture Era from Text",
+        "Meta Description": " Find DALL·E 2, OpenAI's progressed AI framework that makes practical pictures and craftsmanship from characteristic dialect depictions. Investigate its highlights and applications.",
         "Category": [
             "AI Picture Era Tool"
         ],
@@ -100,8 +108,8 @@
         "Website Link": "https://www.midjourney.com/",
         "Logo": "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742637502115_midjourney-logo.png?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
         "Screenshots": [
-            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742637597387midjourney3.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
-            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742637569687midjourney2.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
+            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742637569687_midjourney2.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
+            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742637597387_midjourney3.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
             "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742637542862_midjourney1.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2"
         ],
         "Short Description": " MidJourney is an AI-powered tool designed for generating high-quality, artistic images from text prompts, enabling users to create unique and visually stunning artwork.",
@@ -124,19 +132,19 @@
         "Tags": [
             "Text-to-Image",
             "Digital Art",
+            "AI Art",
             "Creative Tools",
-            "Neural Networks",
-            "AI Art"
+            "Neural Networks"
         ]
     },
     {
         "Tool Name": "Runway ML",
         "Website Link": "https://runwayml.com/",
-        "Logo": "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742645510654Runwayml-logo.png?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
+        "Logo": "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742645510654_Runwayml-logo.png?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
         "Screenshots": [
-            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742645581396runway2.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
-            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742645555795runway1.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
-            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742645615067runway3.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2"
+            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742645555795_runway1.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
+            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742645581396_runway2.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
+            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742645615067_runway3.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2"
         ],
         "Short Description": " Runway ML is an AI-powered creative toolkit that provides tools for video and image editing, enabling users to create and manipulate multimedia content with ease.",
         "Full Description": {
@@ -156,11 +164,11 @@
         ],
         "Product Type": "AI Tool",
         "Tags": [
+            "AI Video Editing",
             "Image Manipulation",
             "Creative Tools",
-            "AI Video Editing",
-            "Multimedia",
-            "Machine Learning"
+            "Machine Learning",
+            "Multimedia"
         ]
     },
     {
@@ -168,9 +176,9 @@
         "Website Link": "https://www.jasper.ai/",
         "Logo": "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742645978233_jasperLogo.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
         "Screenshots": [
-            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742645912286jasper2.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
-            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742645941144jasper3.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
-            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742645884162jasper1.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2"
+            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742645884162_jasper1.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
+            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742645941144_jasper3.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
+            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742645912286_jasper2.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2"
         ],
         "Short Description": " Jasper AI is an AI-powered content creation tool that assists users in generating high-quality written content, including blog posts, marketing copy, and more.",
         "Full Description": {
@@ -191,10 +199,10 @@
         "Product Type": "AI Tool",
         "Tags": [
             "SEO Optimization",
-            "Content Creation",
+            "Marketing Copy",
             "Blog Writing",
-            "AI Writing",
-            "Marketing Copy"
+            "Content Creation",
+            "AI Writing"
         ]
     },
     {
@@ -202,8 +210,8 @@
         "Website Link": "https://www.copy.ai/",
         "Logo": "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742653369654_copy%20ai%20logo.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
         "Screenshots": [
-            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742653464636copy3.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
-            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742653433353copy2.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
+            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742653433353_copy2.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
+            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742653464636_copy3.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
             "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742653404781_copy1.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2"
         ],
         "Short Description": " Copy.ai is an AI-powered tool designed to generate marketing copy, blog posts, and other written content, helping users create compelling text quickly and efficiently.",
@@ -226,9 +234,9 @@
         "Tags": [
             "Marketing Tools",
             "Advertising",
-            "AI Copywriting",
+            "Content Generation",
             "Blog Writing",
-            "Content Generation"
+            "AI Copywriting"
         ]
     },
     {
@@ -236,9 +244,9 @@
         "Website Link": "https://www.grammarly.com/",
         "Logo": "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742655504221_grammarly%20logo.png?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
         "Screenshots": [
-            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742655385766grammarly.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
-            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742655464170gramarly3.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
-            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742655424881grammarly2.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2"
+            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742655385766_grammarly.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
+            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742655464170_gramarly3.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
+            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742655424881_grammarly2.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2"
         ],
         "Short Description": " Grammarly is an AI-powered writing assistant that helps users improve their grammar, spelling, and overall writing quality.",
         "Full Description": {
@@ -258,11 +266,11 @@
         ],
         "Product Type": "AI Tool",
         "Tags": [
-            "Plagiarism Detection",
             "Grammar Checker",
-            "AI Writing",
+            "Plagiarism Detection",
             "Writing Tools",
-            "Content Editing"
+            "Content Editing",
+            "AI Writing"
         ]
     },
     {
@@ -270,9 +278,9 @@
         "Website Link": "https://www.deepl.com",
         "Logo": "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742659226125_deepl%20logo.png?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
         "Screenshots": [
-            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742659132375deepl2.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
-            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742659167040deepl3.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
-            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742659099096_deepl1.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2"
+            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742659132375_deepl2.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
+            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742659099096_deepl1.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
+            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742659167040_deepl3.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2"
         ],
         "Short Description": " ChatBot.com offers AI-powered chatbot courses of action to computerize client advantage, displaying, and bargains, giving 24/7 back and moving forward client satisfaction. A powerful AI-based translation tool that offers accurate translations across multiple languages with a focus on context and nuance, ensuring high-quality and natural-sounding results.",
         "Full Description": {
@@ -288,18 +296,18 @@
         "Meta Title": "DeepL - Advanced AI Translation Tool for Accurate and Context-Aware Translations",
         "Meta Description": "Experience high-quality, context-aware translations with DeepL. Translate documents and text quickly and accurately across multiple languages with this powerful AI tool.",
         "Category": [
-            "Translation",
+            "Language",
             "AI",
-            "Language"
+            "Translation"
         ],
         "Product Type": "Freemium",
         "Tags": [
-            "Document Translation",
-            "Multilingual",
-            "AI",
-            "Neural Networks",
             "Language",
-            "Translation"
+            "Multilingual",
+            "Translation",
+            "Neural Networks",
+            "AI",
+            "Document Translation"
         ]
     },
     {
@@ -307,9 +315,9 @@
         "Website Link": "https://quillbot.com/",
         "Logo": "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742659699020_quillbot%20logo.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
         "Screenshots": [
-            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742659793440quillbot2.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
             "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742659748737_quillbot1.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
-            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742659828702quillbot3.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2"
+            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742659793440_quillbot2.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
+            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742659828702_quillbot3.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2"
         ],
         "Short Description": " QuillBot is an AI-powered paraphrasing tool and writing assistant designed to help users rewrite, edit, and enhance their text for clarity, coherence, and creativity.",
         "Full Description": {
@@ -329,8 +337,8 @@
         ],
         "Product Type": "AI Tool",
         "Tags": [
-            "Writing Assistant",
             "Grammar Checker",
+            "Writing Assistant",
             "Content Editing",
             "AI Writing",
             "Paraphrasing"
@@ -341,9 +349,9 @@
         "Website Link": "https://writesonic.com/",
         "Logo": "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742660345891_writesonic%20logo.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
         "Screenshots": [
-            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742660303222writesonic3.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
             "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742660227182_writesonic1.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
-            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742660258831writesonic2.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2"
+            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742660258831_writesonic2.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
+            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742660303222_writesonic3.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2"
         ],
         "Short Description": " Writesonic is an AI-powered content generation tool that helps users create high-quality blog posts, ads, and marketing copy in minutes.",
         "Full Description": {
@@ -364,10 +372,10 @@
         "Product Type": "AI Tool",
         "Tags": [
             "SEO Optimization",
-            "Content Creation",
+            "Marketing Copy",
             "Blog Writing",
-            "AI Writing",
-            "Marketing Copy"
+            "Content Creation",
+            "AI Writing"
         ]
     },
     {
@@ -375,8 +383,8 @@
         "Website Link": "https://www.lumen5.com/",
         "Logo": "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742660647904_lumen5%20logo.png?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
         "Screenshots": [
-            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742660771701lumen2.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
-            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742660809450lumen3.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
+            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742660771701_lumen2.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
+            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742660809450_lumen3.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
             "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742660720817_lumen1.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2"
         ],
         "Short Description": " Lumen5 is an AI-powered video creation platform that transforms text into engaging videos, making it easy for users to create professional-quality content.",
@@ -397,11 +405,11 @@
         ],
         "Product Type": "AI Tool",
         "Tags": [
-            "Content Creation",
-            "Text-to-Video",
-            "Social Media",
             "Marketing",
-            "AI Video"
+            "Text-to-Video",
+            "Content Creation",
+            "AI Video",
+            "Social Media"
         ]
     },
     {
@@ -409,9 +417,9 @@
         "Website Link": "https://www.synthesia.io/",
         "Logo": "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742661222769_synthesia%20logo.png?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
         "Screenshots": [
-            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742661119121_synthesia1.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
-            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742661147808synthesia2.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
-            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742661179841synthesia3.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2"
+            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742661147808_synthesia2.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
+            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742661179841_synthesia3.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
+            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742661119121_synthesia1.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2"
         ],
         "Short Description": " Synthesia is an AI-powered video creation platform that allows users to create videos with digital avatars, making it easy to produce personalized and multilingual video content.",
         "Full Description": {
@@ -432,20 +440,20 @@
         "Product Type": "AI Tool",
         "Tags": [
             "Multilingual Content",
-            "Digital Avatars",
-            "Video Marketing",
             "E-learning",
-            "AI Video"
+            "Digital Avatars",
+            "AI Video",
+            "Video Marketing"
         ]
     },
     {
         "Tool Name": "Surfer SEO",
-        "Website Link": "https://www.surfer",
+        "Website Link": "https://www.surferseo.com/",
         "Logo": "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742661727732_surferseo%20logo.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
         "Screenshots": [
             "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742661792737_surferseo1.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
-            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742661873984surferseo3.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
-            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742661830872surferseo2.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2"
+            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742661830872_surferseo2.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
+            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742661873984_surferseo3.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2"
         ],
         "Short Description": " Surfer SEO is an AI-driven tool designed to help users optimize their content for search engines, improving their website's visibility and ranking.",
         "Full Description": {
@@ -465,11 +473,11 @@
         ],
         "Product Type": "AI Tool",
         "Tags": [
-            "Keyword Research",
             "Search Engine Ranking",
-            "AI SEO",
+            "Keyword Research",
+            "Competitor Analysis",
             "Content Optimization",
-            "Competitor Analysis"
+            "AI SEO"
         ]
     },
     {
@@ -477,9 +485,9 @@
         "Website Link": "https://www.copysmith.ai/",
         "Logo": "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742662400686_copysmith%20logo.png?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
         "Screenshots": [
-            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742662325051copysmith2.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
-            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742662290208_copysmith1.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
-            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742662366008copysmith3.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2"
+            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742662366008_copysmith3.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
+            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742662325051_copysmith2.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
+            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742662290208_copysmith1.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2"
         ],
         "Short Description": " CopySmith is an AI-powered copywriting tool designed to help businesses create compelling product descriptions, ad copy, and marketing content.",
         "Full Description": {
@@ -499,21 +507,21 @@
         ],
         "Product Type": "AI Tool",
         "Tags": [
-            "E-commerce",
-            "AI Copywriting",
             "Product Descriptions",
+            "Marketing Copy",
             "Content Generation",
-            "Marketing Copy"
+            "AI Copywriting",
+            "E-commerce"
         ]
     },
     {
         "Tool Name": "Frase",
         "Website Link": "https://www.frase.io/",
-        "Logo": "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742704526280frase1logo.png?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
+        "Logo": "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742704526280_frase1logo.png?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
         "Screenshots": [
-            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742704636401frase2.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
-            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742704591590_frase1.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
-            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742704668556frase3.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2"
+            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742704636401_frase2.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
+            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742704668556_frase3.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
+            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742704591590_frase1.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2"
         ],
         "Short Description": " Frase is an AI-driven content research and optimization platform that helps users create content that ranks well on search engines.",
         "Full Description": {
@@ -533,11 +541,11 @@
         ],
         "Product Type": "AI Tool",
         "Tags": [
-            "Content Research",
             "Keyword Analysis",
-            "Competitor Research",
+            "Content Research",
+            "Content Optimization",
             "AI SEO",
-            "Content Optimization"
+            "Competitor Research"
         ]
     },
     {
@@ -545,8 +553,8 @@
         "Website Link": "https://pictory.ai/",
         "Logo": "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742711657090_pictory%20ai%20logo.png?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
         "Screenshots": [
-            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742711562160pictory2.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
-            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742711599155pictory3.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
+            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742711599155_pictory3.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
+            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742711562160_pictory2.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
             "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742711513805_pictory1.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2"
         ],
         "Short Description": " Pictory is an AI-powered video editing platform that allows users to generate videos from scripts, making it easy to create professional-quality content.",
@@ -567,11 +575,11 @@
         ],
         "Product Type": "AI Tool",
         "Tags": [
-            "Content Creation",
             "Text-to-Video",
             "Video Editing",
-            "Social Media",
-            "AI Video"
+            "Content Creation",
+            "AI Video",
+            "Social Media"
         ]
     },
     {
@@ -579,9 +587,9 @@
         "Website Link": "https://www.veed.io/",
         "Logo": "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742711962768_veed%20io%20logo.png?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
         "Screenshots": [
-            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742712034737veed2.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
-            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742712063888veed3.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
-            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742712001002_veed1.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2"
+            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742712001002_veed1.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
+            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742712034737_veed2.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
+            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742712063888_veed3.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2"
         ],
         "Short Description": " Veed.io is an AI-powered video editing tool that simplifies the process of creating and editing videos, including adding subtitles and other enhancements.",
         "Full Description": {
@@ -601,11 +609,11 @@
         ],
         "Product Type": "AI Tool",
         "Tags": [
-            "Subtitling",
-            "Content Creation",
             "Video Editing",
+            "Content Creation",
+            "AI Video",
             "Social Media",
-            "AI Video"
+            "Subtitling"
         ]
     },
     {
@@ -613,9 +621,9 @@
         "Website Link": "https://play.aidungeon.io/",
         "Logo": "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742712401248_ai%20dungeon%20logo.png?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
         "Screenshots": [
-            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742712485099ai%20dungeon3.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
-            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742712456095ai%20dungeon2.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
-            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742712430032_ai%20dungeon1.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2"
+            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742712456095_ai%20dungeon2.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
+            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742712430032_ai%20dungeon1.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
+            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742712485099_ai%20dungeon3.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2"
         ],
         "Short Description": " AI Dungeon is an AI-powered text adventure game that allows users to create and explore interactive stories in a dynamic, AI-driven world.",
         "Full Description": {
@@ -635,11 +643,11 @@
         ],
         "Product Type": "AI Tool",
         "Tags": [
+            "Creative Writing",
             "AI Gaming",
-            "Interactive Stories",
-            "AI Storytelling",
             "Text Adventure",
-            "Creative Writing"
+            "AI Storytelling",
+            "Interactive Stories"
         ]
     },
     {
@@ -647,9 +655,9 @@
         "Website Link": "https://neural.love/",
         "Logo": "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742712908896_neural%20love%20logo.png?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
         "Screenshots": [
-            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742713014800neurallove3.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
             "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742712945376_neurallove1.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
-            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742712976188neurallove2.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2"
+            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742712976188_neurallove2.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
+            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742713014800_neurallove3.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2"
         ],
         "Short Description": " Neural.love is an AI-powered platform for generating and enhancing images and videos, designed for creatives and professionals.",
         "Full Description": {
@@ -669,11 +677,11 @@
         ],
         "Product Type": "AI Tool",
         "Tags": [
-            "Image Generation",
+            "AI Art",
             "Video Enhancement",
             "Creative Tools",
             "Neural Networks",
-            "AI Art"
+            "Image Generation"
         ]
     },
     {
@@ -681,9 +689,9 @@
         "Website Link": "https://www.datarobot.com/",
         "Logo": "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742713320628_datarobot%20logo.png?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
         "Screenshots": [
-            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742713356221_datarobot1.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
-            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742713386876datarobot2.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
-            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742713415057datarobot3.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2"
+            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742713415057_datarobot3.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
+            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742713386876_datarobot2.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
+            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742713356221_datarobot1.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2"
         ],
         "Short Description": " DataRobot is an AI platform that enables businesses to build, deploy, and manage machine learning models at scale.",
         "Full Description": {
@@ -703,11 +711,11 @@
         ],
         "Product Type": "AI Tool",
         "Tags": [
-            "Predictive Analytics",
             "Data Science",
             "AutoML",
-            "AI Machine Learning",
-            "Model Deployment"
+            "Model Deployment",
+            "Predictive Analytics",
+            "AI Machine Learning"
         ]
     },
     {
@@ -715,9 +723,9 @@
         "Website Link": "https://www.tensorflow.org/",
         "Logo": "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742713831796_tenserflow%20logo.png?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
         "Screenshots": [
-            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742713988856tenserflow3.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
-            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742713957178tenserflow2.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
-            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742713868472_tenserflow1.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2"
+            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742713868472_tenserflow1.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
+            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742713957178_tenserflow2.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
+            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742713988856_tenserflow3.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2"
         ],
         "Short Description": " TensorFlow is an open-source machine learning platform developed by Google, designed for building and deploying machine learning models.",
         "Full Description": {
@@ -737,8 +745,8 @@
         ],
         "Product Type": "AI Tool",
         "Tags": [
-            "Deep Learning",
             "TensorFlow",
+            "Deep Learning",
             "Open Source",
             "Neural Networks",
             "AI Machine Learning"
@@ -749,9 +757,9 @@
         "Website Link": "https://huggingface.co/",
         "Logo": "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742714232225_hugginface%20lgo.png?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
         "Screenshots": [
-            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742714278756_huggingface1.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
-            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742714312368huggingface2.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
-            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742714353717huggingface3.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2"
+            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742714353717_huggingface3.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
+            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742714312368_huggingface2.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2",
+            "https://firebasestorage.googleapis.com/v0/b/eco-friendly-tourism.appspot.com/o/1742714278756_huggingface1.jpg?alt=media&token=ed6f616d-a4f4-4b86-bd83-006e1f1446d2"
         ],
         "Short Description": " Hugging Face is a platform that provides state-of-the-art natural language processing (NLP) models and tools for various AI applications.",
         "Full Description": {
@@ -772,9 +780,9 @@
         "Product Type": "AI Tool",
         "Tags": [
             "Text Classification",
-            "Chatbots",
             "Transformer Models",
             "AI NLP",
+            "Chatbots",
             "Language Translation"
         ]
     }

@@ -5,7 +5,7 @@ import re
 
 def clean_text(text):
     """Remove markdown-like formatting and extra whitespace."""
-    text = re.sub(r'[\*_]+', '', text)  # Remove markdown bold/italic
+    text = re.sub(r'[\*]+', '', text)  # Remove markdown bold/italic
     text = re.sub(r'\[.*?\]\((.*?)\)', r'\1', text)  # Extract URL from [text](url)
     return text.strip()
 
